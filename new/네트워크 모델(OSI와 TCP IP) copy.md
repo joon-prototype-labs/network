@@ -97,5 +97,4 @@ TCP와 IP를 기반으로 하는 프로토콜이 많아서 이런 이름이 붙�
 - [Wikipedia - TCI/IP(Internet Protocol Suite)](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 - [RFC 1122](https://datatracker.ietf.org/doc/html/rfc1122)
 - [RFC 1180](https://datatracker.ietf.org/doc/html/rfc1180): Tutorial of TCP/IP protocol suite
-
-- CCNA 강의, 네트워크 책 추가로 보고 검증
+- 컴퓨터 네트워크 햐향식 접근 1장
