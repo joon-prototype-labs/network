@@ -227,3 +227,10 @@ Dog d = (Dog)a;  // ClassCastException 발생
 - RTTI가 있으면 → 안전한 예외 처리로 프로그램 보호
 
 이것이 Rust가 `unsafe` 키워드를 매우 제한적으로만 허용하고, C++에서 `dynamic_cast`의 사용을 권장하는 이유입니다.
+
+---
+
+대신 Rust는 컴파일 시점에 매우 엄격한 타입 시스템을 가지므로, unsafe를 제외하면 이러한 문제가 발생하지 않는다.
+
+Rust는 일반적으론 RTTI를 가지지 않는다. GAT(Generic Associated Types)를 제외하면? 그 외 경우가 있을수도 있긴 하지만,  https://choiseokwon.tistory.com/365
+
