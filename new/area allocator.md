@@ -26,3 +26,7 @@ https://www.reddit.com/r/rust/comments/1etbfym/comment/lid68z4/?utm_source=share
 
 추가: https://moosie.us/smart_blogs_and_talks << 어쩌다보니 본 어떤 사람의 블록인데, 꽤 재밌어보이는거 많음.
 
+
+https://jacko.io/object_soup.html << 이거 재밌음. 
+Rust에서 첨조 특히 양뱡항 참조 방식에 제약이 많아보니 ECS 패턴 같은 방식으로 해결하면 더 좋다는 내용.
+ECS 패턴은 알고는 있었는데, 한번 찾아보면 좋을듯?
