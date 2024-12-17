@@ -29,4 +29,4 @@ https://www.reddit.com/r/rust/comments/1etbfym/comment/lid68z4/?utm_source=share
 
 https://jacko.io/object_soup.html << 이거 재밌음. 
 Rust에서 첨조 특히 양뱡항 참조 방식에 제약이 많아보니 ECS 패턴 같은 방식으로 해결하면 더 좋다는 내용.
-ECS 패턴은 알고는 있었는데, 한번 찾아보면 좋을듯?
+ECS 패턴은 알고는 있었는데, 한번 찾아보면 좋을듯? 왜 멀티 스레드에 안전성이 더 높고 메모리 캐싱이 잘 되는지...
