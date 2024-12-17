@@ -98,3 +98,4 @@ TCP와 IP를 기반으로 하는 프로토콜이 많아서 이런 이름이 붙�
 - [RFC 1122](https://datatracker.ietf.org/doc/html/rfc1122)
 - [RFC 1180](https://datatracker.ietf.org/doc/html/rfc1180): Tutorial of TCP/IP protocol suite
 - 컴퓨터 네트워크 햐향식 접근 1장
+- [이전에 내가 정리한 네트워크 노트](https://github.com/YangSiJun528/memory/blob/master/notes/Computer%20Science/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90.md)
