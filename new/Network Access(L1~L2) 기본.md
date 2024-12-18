@@ -53,6 +53,11 @@ OSI 기준 3계층이 아니라 1~2 계층을 다룸.
                 - https://en.wikipedia.org/wiki/Network_interface_controller : 더 찾아봐야함. 부족한 부분도 많음.
                 - https://www.geeksforgeeks.org/nic-full-form/ 
                 - https://gist.github.com/bondit-sijunyang/e1154b3c908744ee64a721a3b9ecd5ef << AI 답변이긴 한데, 이런 부분은 꽤 정확하니까...
+- 6.2 오류 검출 및 정정 기술
+    - 패리티 검사 : 신뢰성이 낮아 현대 네트워크에서는 거의 사용되지 않음.
+    - 체크섬 : TCP, UDP에서 데이터그램의 무결성을 확인하기 위해 사용. 소프트웨어로 구현됨.
+    - 순환 중복 검사(CRC) : 하드웨어에서 효율적으로 구현 가능. 링크 계층(NIC)에서, 물리 계층(무선 통신, UDB, HDD, SSD) 등에서 사용됨.
+    - 순서대로 더 높은 오류 검출 능력.
 
 
 
